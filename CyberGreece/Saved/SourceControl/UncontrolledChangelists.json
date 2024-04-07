@@ -10,7 +10,17 @@
 				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Portal_BP.uasset",
 				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/G0/GM05WHJ826HXGZLWKC6GNZ.uasset",
 				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/KE/FA1UOKKSHV1SXUXIZ58UKF.uasset",
-				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset"
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/ColorDoor_BP.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Materials/Default_Shader.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Materials/Default_Shader_PPM.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Materials/Shader1.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Materials/Shader1_PPM.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/O2/869NRAWN7TQ64LHMJDQY3D.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Materials/Shader2.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Materials/Shader2_PPM.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/TriggerTeleport_BP.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Destination_BP.uasset"
 			]
 		}
 	]
