@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/Portals/Portal_BP.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/G0/GM05WHJ826HXGZLWKC6GNZ.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/KE/FA1UOKKSHV1SXUXIZ58UKF.uasset",
+				"S:/UEProjects/IT-Planet_Gamedev_RapidGalaxy/CyberGreece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset"
 			]
 		}
 	]
