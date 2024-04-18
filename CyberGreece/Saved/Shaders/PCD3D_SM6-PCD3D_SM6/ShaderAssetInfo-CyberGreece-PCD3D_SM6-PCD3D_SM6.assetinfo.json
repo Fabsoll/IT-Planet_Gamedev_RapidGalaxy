@@ -32,6 +32,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1205D305610147682BECD6957493A2287F63A6D8",
+			"Assets": [
+				"/Game/Blueprints/UI/EmissiveWhite"
+			]
+		},
+		{
 			"ShaderMapHash": "B8231B061947A6B08E9DF2B7334ED2181A68EB54",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
@@ -564,6 +570,7 @@
 		{
 			"ShaderMapHash": "81DA2775A32B763A6BE5C8BD31573C8F54881EE7",
 			"Assets": [
+				"/Game/FirstPerson/Maps/finalMap",
 				"/Game/FirstPerson/Maps/Level_design"
 			]
 		},
@@ -1158,6 +1165,12 @@
 			"ShaderMapHash": "FD2E8EF850F794F07BC9876DA0C1645147C568E0",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "2F34AEF8245D1CEC63B5B5D2C7B7929935FA1F91",
+			"Assets": [
+				"/Game/StarterContent/Particles/transparentMat"
 			]
 		},
 		{

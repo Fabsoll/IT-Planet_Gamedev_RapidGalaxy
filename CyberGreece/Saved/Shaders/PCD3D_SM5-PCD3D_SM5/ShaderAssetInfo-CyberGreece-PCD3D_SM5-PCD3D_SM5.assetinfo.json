@@ -26,6 +26,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "70C76D0476AA4C06680E74E99DB48B4447533EB2",
+			"Assets": [
+				"/Game/Blueprints/UI/EmissiveWhite"
+			]
+		},
+		{
 			"ShaderMapHash": "171BF5043478F8BEAA958AD2AEE1B797FF9ACE52",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
@@ -816,6 +822,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F521AFB9AD1E0411111B6224BADC878B609D7AA6",
+			"Assets": [
+				"/Game/StarterContent/Particles/transparentMat"
+			]
+		},
+		{
 			"ShaderMapHash": "445CACBC147F8A135687A60B665118B86A804C58",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial",
@@ -983,6 +995,7 @@
 		{
 			"ShaderMapHash": "89796DDC2775CE4080DCFB693E054A4DC35A0A03",
 			"Assets": [
+				"/Game/FirstPerson/Maps/finalMap",
 				"/Game/FirstPerson/Maps/Level_design"
 			]
 		},
